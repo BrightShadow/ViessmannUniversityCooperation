@@ -7,7 +7,7 @@
     /// <summary>
     /// Enum type extension methods
     /// </summary>
-    public static class EnumExtensions
+    public static class EnumExtensions2ss
     {
         /// <summary>
         /// Gets the description.
